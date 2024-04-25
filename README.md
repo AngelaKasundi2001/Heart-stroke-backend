@@ -27,4 +27,4 @@ Before running this application, make sure you have the following prerequisites 
 Once the dependencies are installed, you can start the app.py.
 ### `python app.py`
 
-**Note:** After the installation is complete, go to the HeartStrokeDetectorFrontEnd folder and follow the instructions in the README.md file.
+**Note:** After the installation is complete, go to the HeartStrokeDetectorFrontEnd folder/ get clone (https://github.com/AngelaKasundi2001/Heart-stroke-detector-front-end.git) and follow the instructions in the README.md file.
